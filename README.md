@@ -1,0 +1,2 @@
+# CoBot
+A Covid Bot
